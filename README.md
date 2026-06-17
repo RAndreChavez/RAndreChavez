@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Remer Chavez
+Computer Science Graduate | Web Developer | Software Builder
 
-<!--
-**RAndreChavez/RAndreChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my presentation repository. Here you’ll find a concise overview of my professional profile, technical skills, key projects and how to get in touch.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science graduate (Dec 2025) with hands-on experience building and maintaining client-facing technical solutions, working with SQL and Python-based projects, and translating real needs into practical deliverables through proposals and presentations. Strong foundation in software development, data-driven problem solving, and client communication. Interested in applying AI, data engineering, and emerging technologies to real-world business problems.
+
+## What I Work With
+
+- **Web:** WordPress, HTML5, CSS3, JavaScript, Divi
+- **Programming:** Python, SQL, Java, C#, C++
+- **Frameworks & Tools:** Flask, Django (basics), MySQL, Git & GitHub, Canva, Meta Business Suite
+- **Concepts:** SEO best practices, analytics dashboards, API integrations, responsive design, basic networking
+
+## Featured Projects  
+
+- **Photon Networked Game**  
+  A Python‑based UDP multiplayer game prototype with real‑time scoring and MySQL match logging. Built as a team project during my studies to demonstrate networking, database integration and collaborative development.
+
+## Get in Touch
+
+If you’d like to discuss a project, collaboration or just say hi, feel free to reach out:
+
+- **Email:** remerandre@gmail.com
+- **LinkedIn:** linkedin.com/in/remerchavez
+- **Portfolio:** clineweb.com
+
+Thanks for stopping by! Feel free to explore my repositories and don’t hesitate to star or fork anything that interests you.
