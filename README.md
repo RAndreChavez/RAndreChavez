@@ -16,8 +16,13 @@ Computer Science graduate (Dec 2025) with hands-on experience building and maint
 
 ## Featured Projects  
 
+- **CLINE**  
+  Official project repository for CLINE, a web development company focused on professional business websites, WordPress maintenance, SEO support, mobile optimization, troubleshooting, and client-facing digital solutions.  
+  Repository: https://github.com/RAndreChavez/cline
+
 - **Photon Networked Game**  
-  A Python‑based UDP multiplayer game prototype with real‑time scoring and MySQL match logging. Built as a team project during my studies to demonstrate networking, database integration and collaborative development.
+  A Python-based UDP multiplayer game prototype with real-time scoring and MySQL match logging. Built as a team project during my studies to demonstrate networking, database integration, and collaborative development.  
+  Repository: https://github.com/Software-Engineering-Team-23/Photon
 
 ## Get in Touch
 
