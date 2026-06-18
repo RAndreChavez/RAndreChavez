@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Remer Chavez
+# 👋 Welcome to my Github, I'm Remer Chavez
 Computer Science Graduate | Web Developer | Software Builder
 
 Welcome to my presentation repository. Here you’ll find a concise overview of my professional profile, technical skills, key projects and how to get in touch.
