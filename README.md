@@ -30,6 +30,6 @@ If you’d like to discuss a project, collaboration or just say hi, feel free to
 
 - **Email:** remerandre@gmail.com
 - **LinkedIn:** linkedin.com/in/remerchavez
-- **Portfolio:** clineweb.com
+- **Portfolio:** https://github.com/RAndreChavez
 
 Thanks for stopping by! Feel free to explore my repositories and don’t hesitate to star or fork anything that interests you.
