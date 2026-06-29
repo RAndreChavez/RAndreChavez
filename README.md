@@ -34,7 +34,9 @@ Official project repository for CLINE, a web development company focused on prof
 Repository: https://github.com/RAndreChavez/cline
 
 ### Photon Networked Game
-
+<p align="center">
+  <img src="image.png" alt="CLINE logo" width="180">
+</p>
 A Python-based UDP multiplayer game prototype with real-time scoring and MySQL match logging. Built as a team project during my studies to demonstrate networking, database integration, and collaborative development.
 
 Repository: https://github.com/Software-Engineering-Team-23/Photon
