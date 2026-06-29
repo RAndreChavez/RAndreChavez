@@ -24,6 +24,10 @@ Computer Science graduate (Dec 2025) with hands-on experience building and maint
   A Python-based UDP multiplayer game prototype with real-time scoring and MySQL match logging. Built as a team project during my studies to demonstrate networking, database integration, and collaborative development.  
   Repository: https://github.com/Software-Engineering-Team-23/Photon
 
+- **ProductiviTime**  
+  CS50 final project: a Flask and MySQL productivity web app with calendar events, countdowns, tasks, and user authentication.
+  https://github.com/RAndreChavez/ProductiviTime
+
 ## Get in Touch
 
 If you’d like to discuss a project, collaboration or just say hi, feel free to reach out:
