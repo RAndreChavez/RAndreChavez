@@ -22,6 +22,7 @@ Computer Science graduate from the University of Arkansas with hands-on experien
   <img src="gameplan-logo-title-banner.png" alt="GamePlan logo banner" width="520">
 </p>
 A full-stack map-based social event discovery and planning platform with interactive event maps, custom pins, event hosting tools, ticket tiers, saved plans, social activity, user profiles, dark/light mode, and responsive mobile design.
+
 Repository: https://github.com/RAndreChavez/GamePlan
 
 ### CLINE
@@ -29,21 +30,25 @@ Repository: https://github.com/RAndreChavez/GamePlan
   <img src="Final Logo-02.png" alt="CLINE logo" width="180">
 </p>
 Official project repository for CLINE, a web development company focused on professional business websites, WordPress maintenance, SEO support, mobile optimization, troubleshooting, and client-facing digital solutions.
+
 Repository: https://github.com/RAndreChavez/cline
 
 ### Photon Networked Game
 
 A Python-based UDP multiplayer game prototype with real-time scoring and MySQL match logging. Built as a team project during my studies to demonstrate networking, database integration, and collaborative development.
+
 Repository: https://github.com/Software-Engineering-Team-23/Photon
 
 ### AIM-Paradigm
 
 A programming paradigms project repository focused on applying object-oriented programming concepts, Java development, and structured software design through interactive coursework-based projects.
+
 Repository: https://github.com/RAndreChavez/AIM-Paradigm
 
 ### ProductiviTime
 
 A productivity web application originally built as my CS50 final project. It includes user authentication, a productivity dashboard, calendar-style scheduling, event countdowns, and task management features.
+
 Repository: https://github.com/RAndreChavez/ProductiviTime
 
 ## Get in Touch
