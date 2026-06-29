@@ -18,16 +18,16 @@ Computer Science graduate from the University of Arkansas with hands-on experien
 ## Featured Projects
 
 ### GamePlan
-
-<img align="center" src="gameplan-logo-title-banner.png" alt="GamePlan logo banner" width="520">
-
+<p align="center">
+  <img src="gameplan-logo-title-banner.png" alt="GamePlan logo banner" width="520">
+</p>
 A full-stack map-based social event discovery and planning platform with interactive event maps, custom pins, event hosting tools, ticket tiers, saved plans, social activity, user profiles, dark/light mode, and responsive mobile design.
 **Repository:** https://github.com/RAndreChavez/GamePlan
 
 ### CLINE
-
-<img align="center" src="Final Logo-02.png" alt="CLINE logo" width="180">
-
+<p align="center">
+  <img src="Final Logo-02.png" alt="CLINE logo" width="180">
+</p>
 Official project repository for CLINE, a web development company focused on professional business websites, WordPress maintenance, SEO support, mobile optimization, troubleshooting, and client-facing digital solutions.
 **Repository:** https://github.com/RAndreChavez/cline
 
