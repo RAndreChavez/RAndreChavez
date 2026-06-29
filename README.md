@@ -42,13 +42,17 @@ A Python-based UDP multiplayer game prototype with real-time scoring and MySQL m
 Repository: https://github.com/Software-Engineering-Team-23/Photon
 
 ### AIM-Paradigm
-
+<p align="center">
+  <img src="AIM Paradigm.png" alt="CLINE logo" width="180">
+</p>
 A programming paradigms project repository focused on applying object-oriented programming concepts, Java development, and structured software design through interactive coursework-based projects.
 
 Repository: https://github.com/RAndreChavez/AIM-Paradigm
 
 ### ProductiviTime
-
+<p align="center">
+  <img src="ProductiviTime.png" alt="CLINE logo" width="180">
+</p>
 A productivity web application originally built as my CS50 final project. It includes user authentication, a productivity dashboard, calendar-style scheduling, event countdowns, and task management features.
 
 Repository: https://github.com/RAndreChavez/ProductiviTime
