@@ -28,6 +28,10 @@ Computer Science graduate (Dec 2025) with hands-on experience building and maint
   CS50 final project: a Flask and MySQL productivity web app with calendar events, countdowns, tasks, and user authentication.
   https://github.com/RAndreChavez/ProductiviTime
 
+- **AIM Paradigm**
+  A Python/Pygame reflex game built as a Programming Paradigms final project, featuring multiple game modes, custom difficulty, timed targets, scoring, lives, combos, and polished game UI.
+  https://github.com/RAndreChavez/AIM-Paradigm
+
 ## Get in Touch
 
 If you’d like to discuss a project, collaboration or just say hi, feel free to reach out:
